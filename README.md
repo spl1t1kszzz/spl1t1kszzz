@@ -1,14 +1,4 @@
 ### Hi there 👋
+![spl1t1kszzz's LeetCode Stats](https://github.com/spl1t1kszzz/leetcode-stats/blob/master/generated/stats.svg)
 
-<!--
-**spl1t1kszzz/spl1t1kszzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning C++
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
